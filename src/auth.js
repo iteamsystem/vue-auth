@@ -438,7 +438,6 @@ module.exports = function () {
 
         logoutPerform:      _logoutPerform,
         logoutProcess:      _logoutProcess,
-//        logoutProcess:      _logoutProcess({withCredentials: true}),
 
         fetchPerform:       _fetchPerform,
         fetchProcess:       _fetchProcess,
